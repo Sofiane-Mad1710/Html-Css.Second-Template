@@ -175,7 +175,7 @@ header nav .form i:hover{
 /* start landing */
 .landing{
 	min-height: 100vh;
-	background-image: url(images/wallpaperflare.com_wallpaper\ \(7\).jpg);
+	background-image: url(wallpaperflare.com_wallpaper\ \(7\).jpg);
 	background-size: cover;
 	background-color: #1f2021;
 	position: relative;
@@ -185,19 +185,19 @@ header nav .form i:hover{
 }
 @keyframes change-pic{
 	0%{
-	background-image: url(images/wallpaperflare.com_wallpaper\ \(7\).jpg);
+	background-image: url(wallpaperflare.com_wallpaper\ \(7\).jpg);
 	}
 	27%{
 		background-color: #1f2021;
 	}
 	37%{
-		background-image: url(images/wallpaperflare.com_wallpaper\ \(1\).jpg);
+		background-image: url(wallpaperflare.com_wallpaper\ \(1\).jpg);
 	}
 	64%{
 		background-color: #1f2021;
 	}
 	74%{
-		background-image: url(images/wallpaperflare.com_wallpaper\ \(8\).jpg);
+		background-image: url(wallpaperflare.com_wallpaper\ \(8\).jpg);
 	}
 }
 .landing .overlay{
@@ -386,7 +386,7 @@ header nav .form i:hover{
 	padding-bottom: 100px;
 	height: 600px;
 	position: relative;
-	background-image: url(images/design.jpg);
+	background-image: url(design.jpg);
 	background-size: cover;
 	display: flex;
 	align-items: center;
@@ -630,7 +630,7 @@ header nav .form i:hover{
 	padding-top: 100px;
 	padding-bottom:100px ;
 	text-align: center;
-	background-image: url(images/wallpaperflare.jpg);
+	background-image: url(wallpaperflare.jpg);
 	background-size: cover;
 	position: relative;
 }
@@ -843,7 +843,7 @@ header nav .form i:hover{
 .quote{
 	padding-top: 100px;
 	padding-bottom: 100px;
-	background-image: url(images/wallpaperflare.com.jpg);
+	background-image: url(wallpaperflare.com.jpg);
 	background-size: cover;
 	position: relative;
 	text-align: center;
@@ -992,7 +992,7 @@ header nav .form i:hover{
 .subscribe{
 	padding-top: 100px;
 	padding-bottom: 100px;
-	background-image: url(images/subscribe.jpg);
+	background-image: url(subscribe.jpg);
 	background-size: cover;
 	position: relative;
 	color: white;
@@ -1180,7 +1180,7 @@ header nav .form i:hover{
 	.footer{
 		padding-top: 50px;
 		padding-bottom: 50px;
-		background-image: url(images/footer.jpg);
+		background-image: url(footer.jpg);
 		background-size: cover;
 		position: relative;
 		color: white;

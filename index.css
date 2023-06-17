@@ -90,7 +90,7 @@ header .toggle-menu:hover + ul{
 	top: 100%;
 	left: 0;
 	width: 100%;
-	background-color: rgba(0, 0, 0, 0.514);
+	background-color: rgba(0, 0, 0, 0.781);
 }
 header nav  ul li a{
 	padding: 15px !important;
@@ -182,6 +182,13 @@ header nav .form i:hover{
 	animation-name: change-pic;
 	animation: change-pic 20s   infinite backwards  ;
 	-webkit-animation: change-pic 20s   infinite backwards  ;
+}
+@media(max-width:767px) {
+  .landing{
+	width: 100%;
+	background-size: cover;
+	background-repeat: no-repeat;
+	}
 }
 @keyframes change-pic{
 	0%{
@@ -493,7 +500,7 @@ header nav .form i:hover{
 .portfolio .imags-container .box:hover .caption{
 	bottom: 0;
 }
-@media(min-width:768px){
+@media(max-width:768px){
 .portfolio .imags-container .box{
 	flex-basis: 50%;
 }
